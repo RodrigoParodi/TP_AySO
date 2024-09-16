@@ -1,0 +1,2 @@
+Comando para dump traffic: tcpdump
+Comando para ejecutar la busqueda: sudo tcpdump -i eth0
