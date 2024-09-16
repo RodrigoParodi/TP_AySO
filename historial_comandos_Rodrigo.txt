@@ -1,0 +1,136 @@
+ls
+vagrant status
+pwd
+ls
+cd /
+ls
+pwd
+man ls
+cd $HOME
+pwd
+ls
+cat README
+git --version
+pwd
+sudo apt install git
+git --version
+ssh-keygen
+ls
+ls -a
+cd ssh/
+cd .ssh/
+ls
+cat id_rsa.pub
+pwd
+cd /
+pwd
+cd $HOME
+pwd
+vagrant --help
+history
+vagrant halt
+exit
+ls
+cd repogit
+ls
+cd TP_AySO
+ls
+cat datos_usuarios
+cat datos_usuarios.txt
+cat datos_usuario.txt
+ls
+history
+ls
+cat /etc/passwd 
+cat /etc/passwd | grep -v 'nologin' | head -n 10 | sort -t ':' -k 7 > lista_ordenada.txt
+ls
+cat lista_ordenada.txt
+git status
+git add .
+git commit -m "ADD : Listado de usuarios Ordenados"
+git status
+ls
+rm lista_ordenada.txt
+ls
+cat /etc/passwd | grep -v 'nologin' | head -n 10 | sort -t ':' -k 7 > lista_ordenada
+ls
+git status
+git add .
+gir commit -m "ADD : Listado de usuarios ordenados"
+git commit -m "ADD : Listado de usuarios ordenados"
+git status
+ls
+echo "Comando para dump traffic: tcpdump" > comando_dump_net
+echo "Comando para ejecutar la busqueda: sudo tcpdump -i eth0" >> comando_dump_net
+ls
+cat comando_dump_net
+history
+git status
+git add .
+git commit -m "ADD : Comandos para capturar y analizar el trafico de Red"
+ls
+cat README.md
+cat << FIN > README.md
+Alumno : Parodi Rodrigo
+Division : Div 114
+Turno : Mañana
+FIN
+
+LS
+ls
+cat README.md
+git status
+git add .
+git commit -m "ADD : Archivo Readme con informacion"
+git status
+history -a
+man history
+cat $HOME/.bash_history
+history
+cp .bash_history
+cp $HOME/.bash_history
+ls
+cat $HOME/.bash_history
+cp $HOME/.bash_history
+man cp
+pwd
+cd 
+pwd
+ls
+cd
+cd ..
+ls
+pwd
+cd
+pwd
+ls
+cd repogit
+ls
+cd TP_AySO
+ls
+cp /.bash_history
+pwd
+cp /.bash_history /home/vagrant/repogit/TP_AySO
+ls
+ls -la
+ls
+cd
+ls
+cd
+ls
+cd ..
+cl
+ls
+cd
+ls
+cd /carpeta_compartida
+ls
+cd carpeta_compartida
+ls
+cd
+ls
+cd repogit
+ls
+cd TP_AySO
+ls
+history -a
