@@ -1,1 +1,2 @@
 Usuario=vagrant
+model name	: Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz
